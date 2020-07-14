@@ -1,2 +1,2 @@
 # hello-world
-I'm learning GitHub
+The name's Daan, like videogames, web developing and security stuff, let's code together!
